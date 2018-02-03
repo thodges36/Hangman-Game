@@ -3,10 +3,10 @@ body {
     font-family: 'Playfair Display SC', serif;
 	color: #4e4b4b;
 }
-
-#title {
-	margin-top: 45px;
+#subhead {
+    font-size: 160%;
 }
+
 
 #hangman-intro {
 	font-size: 270%;
@@ -41,12 +41,6 @@ body {
 	margin-bottom: 20px;
 }
 
-#winLose {
-	margin: auto;
-	border: 1px dashed #4e4b4b;
-	margin-top: 30px;
-}
-
 #wins, #remGuesses, #guessedLetters {
 	height: 40px;
 	font-size: 160%;
@@ -54,22 +48,4 @@ body {
 }
 
 
-.imgDivs {
-	margin-bottom: 30px;
-}
 
-.names {
-	font-size: 70%;
-	font-weight: 700;
-	letter-spacing: 1px;
-	margin-top: 5px;
-	text-align: center;
-}
-
-#upsideDown {
-	transform: rotate(180deg);
-}
-
-#song {
-	margin-top: 30px;
-}
