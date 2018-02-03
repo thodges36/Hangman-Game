@@ -7,7 +7,6 @@ body {
     font-size: 160%;
 }
 
-
 #hangman-intro {
 	font-size: 270%;
 	margin-top: 25px;
@@ -26,7 +25,6 @@ body {
 #rightColumn {
 	border: 1px solid #4e4b4b; 
 	padding: 30px;
-	height: 634px;
 }
 
 #currentWord {
@@ -46,6 +44,3 @@ body {
 	font-size: 160%;
 	line-height: 40px;
 }
-
-
-
